@@ -1,4 +1,6 @@
-### Hi there 👋
+### About
+
+Bruno Guedes is a highly skilled software engineer with nearly 20 years of experience developing high-quality software solutions using Swift, Kotlin, Objective-C, C/C++, JavaScript, and Python. He has a proven track record of leading and growing engineering teams, delivering well-architected apps, and driving technical initiatives across various industries. Bruno is proficient in translating business requirements into technical solutions and has expertise in native mobile app development (iOS and Android) and web technologies. He is firmly grounded in computer science and engineering fundamentals, including concurrency, multithreading, data structures, solution design, architecture, and design patterns. Bruno possesses strong problem-solving skills and excellent written and verbal communication abilities. He holds a Master's degree in Optical Network Simulation and a Bachelor's degree in Electrical Engineering from Pontificia Universidade Católica, Rio de Janeiro.
 
 <!--
 **brunoguedes/brunoguedes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
